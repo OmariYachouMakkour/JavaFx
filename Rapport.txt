@@ -1,0 +1,27 @@
+Projet realise par Yachou Bilal,Omari Mohamed et Makkour Mouad.
+
+Introduction
+L'objectif de ce rapport est de présenter une application créée avec JavaFX EnsaCription (Ensao inscription) pour gérer l'inscription des étudiants au sein d'une école. 
+L'application offre des fonctionnalités CRUD (Create, Read, Update, Delete) permettant de manipuler les données des étudiants, 
+ainsi que la possibilité pour l'étudiant d'imprimer sa fiche d'inscription. Ce rapport détaillera les fonctionnalités de l'application, 
+son architecture, et les étapes nécessaires pour son utilisation.
+
+Fonctionnalités de l'application
+L'application offre les fonctionnalités suivantes :
+
+Création d'un nouvel étudiant : L'utilisateur peut saisir les informations personnelles de l'étudiant, telles que le cne, le nom, le prénom, la date de naissance, 
+l'adresse-email.
+
+Consultation des étudiants : L'application permet d'afficher la liste des étudiants inscrits.
+
+Mise à jour des informations d'un étudiant : L'utilisateur peut modifier les informations d'un étudiant déjà inscrit, telles que le nom, le prénom, la date de naissance, 
+l'adresse-email.
+Suppression d'un étudiant : L'application permet de supprimer un étudiant de la base de données.
+
+Impression de la fiche d'inscription : le gérant peut générer et imprimer sa fiche d'inscription, qui contient toutes les informations le concernant.
+
+
+Conclusion
+Cette application JavaFX offre une solution conviviale pour gérer l'inscription des étudiants au sein d'une école. 
+Les fonctionnalités CRUD permettent de créer, consulter, mettre à jour et supprimer les enregistrements des étudiants. 
+De plus, l'option d'impression de la fiche d'inscription facilite la génération de documents pour les étudiants.
